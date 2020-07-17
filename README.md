@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, This is LvyIN.
+
+Just passionate about studying all about computer science and software development.
+
+#### Find me around the web:
+
+- LeetCode
+- freeCodeCamp
+- CodePen
 
 <!--
 **lvyin1122/lvyin1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
