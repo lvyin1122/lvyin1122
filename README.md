@@ -1,5 +1,9 @@
 ### Hi, This is LvyIN.
 
+#### Description:
+
+Noob.
+
 #### Favorites:
 
 - 📽️ Pulp Fiction 
@@ -9,9 +13,9 @@
 
 #### Find me around the web:
 
-- LeetCode
-- freeCodeCamp
-- CodePen
+- [LeetCode]{https://leetcode.com/lvyin_33/}
+- [freeCodeCamp]{https://www.freecodecamp.org/lvyin33}
+- [CodePen]{https://codepen.io/lvyin1122}
 
 <!--
 **lvyin1122/lvyin1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
