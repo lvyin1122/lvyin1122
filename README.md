@@ -1,6 +1,11 @@
 ### Hi, This is LvyIN.
 
-Just passionate about studying all about computer science and software development.
+#### Favorites:
+
+- 📽️ Pulp Fiction 
+- 🚀 Cowboy Bebop
+- 🛍️ Yokohama Kaidashi Kikou
+- 🎵 White Tiger Field
 
 #### Find me around the web:
 
