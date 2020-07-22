@@ -1,6 +1,6 @@
 ### Hi, This is LvyIN.
 
-![](https://github.com/lvyin1122/lvyin1122/blob/master/001.png?raw=true)
+<!--![](https://github.com/lvyin1122/lvyin1122/blob/master/001.png?raw=true)-->
 
 #### Description:
 
