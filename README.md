@@ -8,16 +8,11 @@ Noob.
 
 #### Favorites:
 
-- 📽️ Pulp Fiction 
-- 🚀 Cowboy Bebop
-- 🛍️ Yokohama Kaidashi Kikou
-- 🎵 White Tiger Field
+📽️ Pulp Fiction | 🚀 Cowboy Bebop | 🛍️ Yokohama Kaidashi Kikou | 🎵 White Tiger Field
 
 #### Find me around the web:
 
-- [LeetCode](https://leetcode.com/lvyin_33/)
-- [freeCodeCamp](https://www.freecodecamp.org/lvyin33)
-- [CodePen](https://codepen.io/lvyin1122)
+[LeetCode](https://leetcode.com/lvyin_33/) | [freeCodeCamp](https://www.freecodecamp.org/lvyin33) | [CodePen](https://codepen.io/lvyin1122)
 
 <!--
 **lvyin1122/lvyin1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
