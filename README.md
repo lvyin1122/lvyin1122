@@ -6,14 +6,12 @@
 
 Noob.
 
-#### Favorites:
-
-📽️ Pulp Fiction | 🚀 Cowboy Bebop | 🛍️ Yokohama Kaidashi Kikou | 🎵 White Tiger Field
-
 #### Find me around the web:
 
 [LeetCode](https://leetcode.com/lvyin_33/) 
 <!-- | [freeCodeCamp](https://www.freecodecamp.org/lvyin33) | [CodePen](https://codepen.io/lvyin1122) -->
+
+[![LvyIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvyin1122)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lvyin1122/lvyin1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
